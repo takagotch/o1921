@@ -2,7 +2,9 @@
 ---
 http://api.randomuser.me/
 
-/portraits/men/93.jpg
+/portraits/men/xx.jpg
+/portraits/women/xx.jpg
+
 
 ###### output
 ```.html
